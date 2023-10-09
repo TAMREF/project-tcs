@@ -27,7 +27,7 @@
 Tentative lectures are denoted in *italic*.
 
 ### Season 3 (2023)
-* _Week 1 (9/25) - Finding Diverse Trees, Paths, and More (Host: TAMREF)_
+* _Week 1 (9/25) - Finding Diverse Trees, Paths, and More (Host: TAMREF)_ [(V, Korean)](https://youtu.be/aJWvzNM7eKw)
 * _Week 2 (10/9) - Fast Algorithms via Dynamic-Oracle Matroids (Host: ainta)_
 * _Week 3 (10/16) - Beating the integrality ratio for s-t-tours in graphs (Host: leejseo)_
 * _Week 4 (10/23) - Finding Critical Users for Social Network Engagement: The Collapsed k-Core Problem (Host: chunghan)_
