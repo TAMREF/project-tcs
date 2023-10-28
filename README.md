@@ -10,7 +10,6 @@
 | leejseo       | Jongseo Lee      | S2, S3     |
 | TAMREF        | Changki Yun      | S1, S2, S3 |
 | ainta         | Sunghyeon Jo     | S3 |
-| chunghan      | Won Park         | S3 |
 
 ### Alumni
 
@@ -29,9 +28,8 @@ Tentative lectures are denoted in *italic*.
 ### Season 3 (2023)
 * _Week 1 (9/25) - Finding Diverse Trees, Paths, and More (Host: TAMREF)_ [(V, Korean)](https://youtu.be/aJWvzNM7eKw)
 * _Week 2 (10/9) - Fast Algorithms via Dynamic-Oracle Matroids (Host: ainta)_
-* _Week 3 (10/16) - Beating the integrality ratio for s-t-tours in graphs (Host: leejseo)_
-* _Week 4 (10/23) - Finding Critical Users for Social Network Engagement: The Collapsed k-Core Problem (Host: chunghan)_
-* _Week 5 (10/30) - Improved Massively Parallel Computation Algorithms for MIS, Matching, and Vertex Cover (Host: koosaga)_
+* _Week 3 (10/16) - Shorter Tours by Nicer Ears: From connected -join to graphic TSP variants (Host: leejseo)_
+* _Week 4 (10/23) - Improved Massively Parallel Computation Algorithms for MIS, Matching, and Vertex Cover (Host: koosaga)_
 
 ### Season 2 (2021)
 * Week 1 (2/22) - Maintaining Information in Fully-Dynamic Trees with Top Trees (Host: koosaga) [(V)](https://www.youtube.com/watch?v=XHyEbHr5CkQ)
